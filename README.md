@@ -14,4 +14,7 @@ This is a simple practice HTML/CSS/JS project that dynamically shows the current
 
 #### Screenshots:
 
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/boyankachamachkov/Documents/GitHub/Weather-App/images/SCR-20231217-kfds.png?version%253D1702804962896)
+![Initial State](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kfds.png)
+![Example](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kfik.png)
+![Another Example](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kflv.png)
+![Error Example](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kfng.png)
