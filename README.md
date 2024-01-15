@@ -14,7 +14,7 @@ This is a simple practice HTML/CSS/JS project that dynamically shows the current
 
 #### Screenshots:
 
-![Initial State](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kfds.png)
-![Example](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kfik.png)
-![Another Example](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kflv.png)
-![Error Example](https://github.com/kachamachkov/Weather-App/blob/main/images/SCR-20231217-kfng.png)
+![Initial State](https://github.com/kachamachkov/Weather-App/blob/main/images/initial.png)
+![Example](https://github.com/kachamachkov/Weather-App/blob/main/images/demo-1.png)
+![Another Example](https://github.com/kachamachkov/Weather-App/blob/main/images/demo-2.png)
+![Error Example](https://github.com/kachamachkov/Weather-App/blob/main/images/demo-3.png)
