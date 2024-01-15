@@ -14,9 +14,9 @@ This is a simple practice HTML/CSS/JS project that dynamically shows the current
 
 #### Screenshots:
 
-![Initial](./images/inital.png)
+![Initial](images/inital.png)
 
-![demo-1](./images/demo-1.png)
-![demo-2](./images/demo-2.png)
+![demo-1](images/demo-1.png)
+![demo-2](images/demo-2.png)
 
-![demo-3](./images/demo-3.png)
+![demo-3](images/demo-3.png)
